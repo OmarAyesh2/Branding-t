@@ -175,7 +175,13 @@ function App() {
 
         {/* Header */}
         <header className="container mx-auto px-4 py-8">
-          
+         
+          <h1 className="text-5xl font-bold mb-4 text-white">
+            {t.cantonal_logo}
+          </h1>
+          <p className="text-xl text-white max-w-2xl">
+            {t.explore_text}
+          </p>
         </header>
 
         {/* Main Content */}
