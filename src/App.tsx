@@ -34,15 +34,15 @@ const translations: Record<'en' | 'ar', Translations> = {
     options: [
       {
         title: "Option One",
-        description: ""
+        description: "The classic Telescope logo with its iconic crescent shapes"
       },
       {
         title: "Option Two",
-        description: ""
+        description: "A contemporary take on the Telescope brand identity"
       },
       {
         title: "Option Three",
-        description: ""
+        description: "Simplified and refined for modern applications"
       }
     ]
   },
@@ -57,14 +57,15 @@ const translations: Record<'en' | 'ar', Translations> = {
     options: [
       {
         title: "التصميم الأول",
-        description: ""
+        description: "شعار تلسكوب الكلاسيكي بأشكاله الهلالية المميزة"
       },
       {
         title: "التصميم الثاني",
-        description: ""
+        description: "رؤية معاصرة لهوية علامة تلسكوب"
+      },
       {
         title: "التصميم الثالث",
-        description: ""
+        description: "مبسط ومحسن للتطبيقات الحديثة"
       }
     ]
   }
@@ -74,7 +75,7 @@ const logoOptions: LogoOption[] = [
   {
     id: 1,
     title: "Option One",
-    description: "",
+    description: "The classic Telescope logo with its iconic crescent shapes",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/dbc0efb7-cae1-4b75-9288-2887daaf74dc_rw_1920.jpg?h=d05bf7e98283c92dacdd93c2ace53f39",
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/6328de2f-91fa-4361-b875-6f28ea1475f1_rw_1920.jpg?h=0e8728e2804d0696bc44b0b86e010243",
@@ -83,7 +84,7 @@ const logoOptions: LogoOption[] = [
   {
     id: 2,
     title: "Option Two",
-    description: "",
+    description: "A contemporary take on the Telescope brand identity",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/daa7a17a-444d-4937-b691-6b063c0ec1f2_rw_1920.jpg?h=ad5a1e2f552b7e7e6a9b09154b3c883c",
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/e7d5df9b-2059-4b80-ae06-ce70d2e031c1_rw_1920.jpg?h=a5f2ac6b7672ffd14b6fdd5e2874388e",
@@ -92,7 +93,7 @@ const logoOptions: LogoOption[] = [
   {
     id: 3,
     title: "Option Three",
-    description: "",
+    description: "Simplified and refined for modern applications",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/8b7e9c10-04d4-4289-aef0-5a5665ab536d_rw_1920.jpg?h=ab1b377234b95f73573df7fec48c7685",
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/3daaaad9-8d7d-4921-bb87-990638a2d412_rw_1920.jpg?h=6ceca41f1ed6172d9173fb7c922df2be",
