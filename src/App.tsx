@@ -228,7 +228,7 @@ function App() {
                 <Mail className="w-6 h-6 mr-4 rtl:ml-4 rtl:mr-0 text-[#f4a853]" />
                 <div>
                   <h3 className="font-semibold text-white">{t.email}</h3>
-                  <p className="text-white">info@telescope-agency.com</p>
+                  <p herf="google.com" className="text-white">info@telescope-agency.com</p>
                 </div>
               </div>
               <div className="flex items-center">
