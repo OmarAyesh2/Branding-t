@@ -67,7 +67,7 @@ const translations: Record<'en' | 'ar', Translations> = {
 
 const logoOptions: LogoOption[] = [
   {
-    id: 1,
+    id: 3,
     title: "Option One",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/a8e6a5d8-dc01-4b66-94b9-50d95b7a8292_rw_1920.png?h=246136e08519ba608c17ae2f6c88956f",
@@ -76,7 +76,7 @@ const logoOptions: LogoOption[] = [
     ]
   },
   {
-    id: 2,
+    id: 1,
     title: "Option Two",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/8e3da5ba-c903-41da-a742-e8c19e02c41c_rw_1920.png?h=d82ce1f6f194e792e92d1b3d7b4b6ba0",
@@ -85,7 +85,7 @@ const logoOptions: LogoOption[] = [
     ]
   },
   {
-    id: 3,
+    id: 2,
     title: "Option Three",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/8b7e9c10-04d4-4289-aef0-5a5665ab536d_rw_1920.jpg?h=ab1b377234b95f73573df7fec48c7685",
