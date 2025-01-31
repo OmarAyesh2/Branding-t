@@ -34,15 +34,12 @@ const translations: Record<'en' | 'ar', Translations> = {
     options: [
       {
         title: "Option One",
-        description: "The classic Telescope logo with its iconic crescent shapes"
       },
       {
         title: "Option Two",
-        description: "A contemporary take on the Telescope brand identity"
       },
       {
         title: "Option Three",
-        description: "Simplified and refined for modern applications"
       }
     ]
   },
@@ -57,15 +54,12 @@ const translations: Record<'en' | 'ar', Translations> = {
     options: [
       {
         title: "التصميم الأول",
-        description: "شعار تلسكوب الكلاسيكي بأشكاله الهلالية المميزة"
       },
       {
         title: "التصميم الثاني",
-        description: "رؤية معاصرة لهوية علامة تلسكوب"
       },
       {
         title: "التصميم الثالث",
-        description: "مبسط ومحسن للتطبيقات الحديثة"
       }
     ]
   }
