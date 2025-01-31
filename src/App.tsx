@@ -67,7 +67,7 @@ const translations: Record<'en' | 'ar', Translations> = {
 
 const logoOptions: LogoOption[] = [
   {
-    id: 2,
+    id: 1,
     title: "Option One",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/c997cee1-44e6-469c-86e6-b04f9e67433d_rw_1920.png?h=7ea7b373fb39268710d37740281ce114",
@@ -76,16 +76,16 @@ const logoOptions: LogoOption[] = [
     ]
   },
   {
-    id: 3,
+    id: 2,
     title: "Option Two",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/7796982f-3b63-4c57-8553-e2c5f0a0aaf9_rw_1920.png?h=45e44be2bd66e908bbc454c2fa568437",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/8b7e9c10-04d4-4289-aef0-5a5665ab536d_rw_1920.jpg?h=ab1b377234b95f73573df7fec48c7685",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/e5ddec40-cff0-4b07-b28e-b34e7d63c723_rw_1920.png?h=8de08bf4c89d78e22fa9128f8587083a",
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/bbb744d1-4087-4d5e-95c7-53354ec2f0d1_rw_1920.png?h=64f532bb0ed5b13d8cd6fae98e598fdf",
     ]
   },
   {
-    id: 1,
+    id: 3,
     title: "Option Three",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/f529bef1-58e7-46df-a439-2e5ece55c71c_rw_1920.png?h=f67b6590d9e2f20cdab564df14a95dd3",
