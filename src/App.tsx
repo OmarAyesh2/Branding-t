@@ -74,7 +74,7 @@ const translations: Record<'en' | 'ar', Translations> = {
 const logoOptions: LogoOption[] = [
   {
     id: 1,
-    title: "Original Design",
+    title: "Option One",
     description: "The classic Telescope logo with its iconic crescent shapes",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/dbc0efb7-cae1-4b75-9288-2887daaf74dc_rw_1920.jpg?h=d05bf7e98283c92dacdd93c2ace53f39",
@@ -83,7 +83,7 @@ const logoOptions: LogoOption[] = [
   },
   {
     id: 2,
-    title: "Modern Variant",
+    title: "Option Two",
     description: "A contemporary take on the Telescope brand identity",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/daa7a17a-444d-4937-b691-6b063c0ec1f2_rw_1920.jpg?h=ad5a1e2f552b7e7e6a9b09154b3c883c",
@@ -92,7 +92,7 @@ const logoOptions: LogoOption[] = [
   },
   {
     id: 3,
-    title: "Minimalist Version",
+    title: "Option Three",
     description: "Simplified and refined for modern applications",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/8b7e9c10-04d4-4289-aef0-5a5665ab536d_rw_1920.jpg?h=ab1b377234b95f73573df7fec48c7685",
