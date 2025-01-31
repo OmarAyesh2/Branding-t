@@ -24,7 +24,7 @@ interface Translations {
 
 const translations: Record<'en' | 'ar', Translations> = {
   en: {
-    cantonal_logo: "Cantonal Logo",
+    cantonal_logo: "Cantonal",
     explore_text: "Explore different variations of your logo design. Each option showcases unique aspects of your visual language.",
     contact_info: "Contact Information",
     email: "Email",
@@ -47,7 +47,7 @@ const translations: Record<'en' | 'ar', Translations> = {
     ]
   },
   ar: {
-    cantonal_logo: "شعار Cantonal",
+    cantonal_logo: "Cantonal",
     explore_text: "استكشف الخيارات المختلفة لشعارك. كل خيار يعرض جوانب فريدة من لغتك البصرية.",
     contact_info: "معلومات التواصل",
     email: "البريد الإلكتروني",
