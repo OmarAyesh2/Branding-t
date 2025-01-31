@@ -78,8 +78,7 @@ const logoOptions: LogoOption[] = [
     description: "The classic Telescope logo with its iconic crescent shapes",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/dbc0efb7-cae1-4b75-9288-2887daaf74dc_rw_1920.jpg?h=d05bf7e98283c92dacdd93c2ace53f39",
-      "https://images.unsplash.com/photo-1557683311-eeb53f59d692?w=600",
-      "https://images.unsplash.com/photo-1557683304-673a23048d34?w=600",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/6328de2f-91fa-4361-b875-6f28ea1475f1_rw_1920.jpg?h=0e8728e2804d0696bc44b0b86e010243",
     ]
   },
   {
@@ -87,9 +86,8 @@ const logoOptions: LogoOption[] = [
     title: "Modern Variant",
     description: "A contemporary take on the Telescope brand identity",
     gallery: [
-      "/images/2072-1-sketching-logo-mockup.jpg",
-      "https://images.unsplash.com/photo-1557682224-5b8590cd9ec5?w=600",
-      "https://images.unsplash.com/photo-1557682260-96773eb01377?w=600",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/daa7a17a-444d-4937-b691-6b063c0ec1f2_rw_1920.jpg?h=ad5a1e2f552b7e7e6a9b09154b3c883c",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/e7d5df9b-2059-4b80-ae06-ce70d2e031c1_rw_1920.jpg?h=a5f2ac6b7672ffd14b6fdd5e2874388e",
     ]
   },
   {
@@ -97,9 +95,9 @@ const logoOptions: LogoOption[] = [
     title: "Minimalist Version",
     description: "Simplified and refined for modern applications",
     gallery: [
-      "https://images.unsplash.com/photo-1557682204-e53b55fd750c?w=600",
-      "https://images.unsplash.com/photo-1557682268-e3955ed5d83d?w=600",
-      "https://images.unsplash.com/photo-1557682233-43e671455dfa?w=600",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/8b7e9c10-04d4-4289-aef0-5a5665ab536d_rw_1920.jpg?h=ab1b377234b95f73573df7fec48c7685",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/3daaaad9-8d7d-4921-bb87-990638a2d412_rw_1920.jpg?h=6ceca41f1ed6172d9173fb7c922df2be",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/5f0ad009-1cee-41a0-8085-9f68443c2a62_rw_1920.jpg?h=30b29fb3e5661d64ada4dd3510c997be",
     ]
   }
 ];
