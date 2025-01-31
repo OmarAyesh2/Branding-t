@@ -25,7 +25,7 @@ interface Translations {
 const translations: Record<'en' | 'ar', Translations> = {
   en: {
     cantonal_logo: "Cantonal Logo",
-    explore_text: "Explore different variations of our brand identity. Each option showcases unique aspects of our visual language.",
+    explore_text: "Explore different variations of your logo design. Each option showcases unique aspects of your visual language.",
     contact_info: "Contact Information",
     email: "Email",
     phone: "Phone",
@@ -33,16 +33,16 @@ const translations: Record<'en' | 'ar', Translations> = {
     image_of: "Image",
     options: [
       {
-        title: "Original Design",
-        description: "The classic Telescope logo with its iconic crescent shapes"
+        title: "Option One",
+        description: ""
       },
       {
-        title: "Modern Variant",
-        description: "A contemporary take on the Telescope brand identity"
+        title: "Option Two",
+        description: ""
       },
       {
-        title: "Minimalist Version",
-        description: "Simplified and refined for modern applications"
+        title: "Option Three",
+        description: ""
       }
     ]
   },
@@ -57,15 +57,14 @@ const translations: Record<'en' | 'ar', Translations> = {
     options: [
       {
         title: "التصميم الأول",
-        description: "شعار تلسكوب الكلاسيكي بأشكاله الهلالية المميزة"
+        description: ""
       },
       {
         title: "التصميم الثاني",
-        description: "رؤية معاصرة لهوية علامة تلسكوب"
-      },
+        description: ""
       {
         title: "التصميم الثالث",
-        description: "مبسط ومحسن للتطبيقات الحديثة"
+        description: ""
       }
     ]
   }
@@ -75,7 +74,7 @@ const logoOptions: LogoOption[] = [
   {
     id: 1,
     title: "Option One",
-    description: "The classic Telescope logo with its iconic crescent shapes",
+    description: "",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/dbc0efb7-cae1-4b75-9288-2887daaf74dc_rw_1920.jpg?h=d05bf7e98283c92dacdd93c2ace53f39",
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/6328de2f-91fa-4361-b875-6f28ea1475f1_rw_1920.jpg?h=0e8728e2804d0696bc44b0b86e010243",
@@ -84,7 +83,7 @@ const logoOptions: LogoOption[] = [
   {
     id: 2,
     title: "Option Two",
-    description: "A contemporary take on the Telescope brand identity",
+    description: "",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/daa7a17a-444d-4937-b691-6b063c0ec1f2_rw_1920.jpg?h=ad5a1e2f552b7e7e6a9b09154b3c883c",
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/e7d5df9b-2059-4b80-ae06-ce70d2e031c1_rw_1920.jpg?h=a5f2ac6b7672ffd14b6fdd5e2874388e",
@@ -93,7 +92,7 @@ const logoOptions: LogoOption[] = [
   {
     id: 3,
     title: "Option Three",
-    description: "Simplified and refined for modern applications",
+    description: "",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/8b7e9c10-04d4-4289-aef0-5a5665ab536d_rw_1920.jpg?h=ab1b377234b95f73573df7fec48c7685",
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/3daaaad9-8d7d-4921-bb87-990638a2d412_rw_1920.jpg?h=6ceca41f1ed6172d9173fb7c922df2be",
@@ -173,7 +172,11 @@ function App() {
 
         {/* Header */}
         <header className="container mx-auto px-4 py-8">
-         
+        <img 
+            src="https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/643093fd-7c4a-409c-b86b-19ab7947a8ba_rw_1200.png?h=8227345fdb37218d8916e0edde1e4fd0" 
+            
+            className="w-48 h-auto mb-8 rtl:rotate-y-180"
+          />
           <h1 className="text-5xl font-bold mb-4 text-white">
             {t.cantonal_logo}
           </h1>
