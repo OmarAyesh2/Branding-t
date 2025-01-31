@@ -47,7 +47,7 @@ const translations: Record<'en' | 'ar', Translations> = {
     ]
   },
   ar: {
-    cantonal_logo: "Cantonal شعار",
+    cantonal_logo: "شعار Cantonal",
     explore_text: "استكشف الخيارات المختلفة لشعارك. كل خيار يعرض جوانب فريدة من لغتك البصرية.",
     contact_info: "معلومات التواصل",
     email: "البريد الإلكتروني",
