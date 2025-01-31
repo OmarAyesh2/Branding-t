@@ -172,11 +172,7 @@ function App() {
 
         {/* Header */}
         <header className="container mx-auto px-4 py-8">
-        <img 
-            src="https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/643093fd-7c4a-409c-b86b-19ab7947a8ba_rw_1200.png?h=8227345fdb37218d8916e0edde1e4fd0" 
-            
-            className="w-48 h-auto mb-8 rtl:rotate-y-180"
-          />
+          
           <h1 className="text-5xl font-bold mb-4 text-white">
             {t.cantonal_logo}
           </h1>
