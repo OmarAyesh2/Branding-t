@@ -75,29 +75,28 @@ const logoOptions: LogoOption[] = [
   {
     id: 1,
     title: "Option One",
-    description: "The classic Telescope logo with its iconic crescent shapes",
     gallery: [
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/dbc0efb7-cae1-4b75-9288-2887daaf74dc_rw_1920.jpg?h=d05bf7e98283c92dacdd93c2ace53f39",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/6328de2f-91fa-4361-b875-6f28ea1475f1_rw_1920.jpg?h=0e8728e2804d0696bc44b0b86e010243",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/a8e6a5d8-dc01-4b66-94b9-50d95b7a8292_rw_1920.png?h=246136e08519ba608c17ae2f6c88956f",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/71264065-4ce1-4cb2-8b1f-dd889c4c5f33_rw_1920.png?h=7c2e539d648a1343176665147a7ddb05",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/cdfcc264-8399-46ad-8b7b-a352121ee9e8_rw_1920.png?h=78a9a4248f1ab1da3bf09a3cc985dd0a",
     ]
   },
   {
     id: 2,
     title: "Option Two",
-    description: "A contemporary take on the Telescope brand identity",
     gallery: [
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/daa7a17a-444d-4937-b691-6b063c0ec1f2_rw_1920.jpg?h=ad5a1e2f552b7e7e6a9b09154b3c883c",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/e7d5df9b-2059-4b80-ae06-ce70d2e031c1_rw_1920.jpg?h=a5f2ac6b7672ffd14b6fdd5e2874388e",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/8e3da5ba-c903-41da-a742-e8c19e02c41c_rw_1920.png?h=d82ce1f6f194e792e92d1b3d7b4b6ba0",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/81b4ec3a-85fa-416f-bf9e-63d139ea7c1b_rw_1920.png?h=37580387f190748f1bfca6dda10d625b",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/68fc7f13-d9b6-4959-8901-8dcf9c6dd164_rw_1920.jpg?h=f7bf0715e76cde5be74c5388ffd8573f",
     ]
   },
   {
     id: 3,
     title: "Option Three",
-    description: "Simplified and refined for modern applications",
     gallery: [
       "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/8b7e9c10-04d4-4289-aef0-5a5665ab536d_rw_1920.jpg?h=ab1b377234b95f73573df7fec48c7685",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/3daaaad9-8d7d-4921-bb87-990638a2d412_rw_1920.jpg?h=6ceca41f1ed6172d9173fb7c922df2be",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/5f0ad009-1cee-41a0-8085-9f68443c2a62_rw_1920.jpg?h=30b29fb3e5661d64ada4dd3510c997be",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/e5ddec40-cff0-4b07-b28e-b34e7d63c723_rw_1920.png?h=8de08bf4c89d78e22fa9128f8587083a",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/bbb744d1-4087-4d5e-95c7-53354ec2f0d1_rw_1920.png?h=64f532bb0ed5b13d8cd6fae98e598fdf",
     ]
   }
 ];
