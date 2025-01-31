@@ -77,7 +77,7 @@ const logoOptions: LogoOption[] = [
     title: "Original Design",
     description: "The classic Telescope logo with its iconic crescent shapes",
     gallery: [
-      "https://images.unsplash.com/photo-1557683316-973673baf926?w=600",
+      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/dbc0efb7-cae1-4b75-9288-2887daaf74dc_rw_1920.jpg?h=d05bf7e98283c92dacdd93c2ace53f39",
       "https://images.unsplash.com/photo-1557683311-eeb53f59d692?w=600",
       "https://images.unsplash.com/photo-1557683304-673a23048d34?w=600",
     ]
