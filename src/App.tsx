@@ -24,7 +24,7 @@ interface Translations {
 
 const translations: Record<'en' | 'ar', Translations> = {
   en: {
-    cantonal_logo: "Cantonal",
+    cantonal_logo: "Bright Buds",
     explore_text: "Explore different variations of your logo design. Each option showcases unique aspects of your visual language.",
     contact_info: "Contact Information",
     email: "Email",
@@ -44,7 +44,7 @@ const translations: Record<'en' | 'ar', Translations> = {
     ]
   },
   ar: {
-    cantonal_logo: "Cantonal",
+    cantonal_logo: "Bright Buds",
     explore_text: "استكشف الخيارات المختلفة لشعارك. كل خيار يعرض جوانب فريدة من لغتك البصرية.",
     contact_info: "معلومات التواصل",
     email: "البريد الإلكتروني",
@@ -70,27 +70,25 @@ const logoOptions: LogoOption[] = [
     id: 1,
     title: "Option One",
     gallery: [
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/c997cee1-44e6-469c-86e6-b04f9e67433d_rw_1920.png?h=7ea7b373fb39268710d37740281ce114",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/daa7a17a-444d-4937-b691-6b063c0ec1f2_rw_1920.jpg?h=ad5a1e2f552b7e7e6a9b09154b3c883c",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/68fc7f13-d9b6-4959-8901-8dcf9c6dd164_rw_1920.jpg?h=f7bf0715e76cde5be74c5388ffd8573f",
+      "https://github.com/OmarAyesh2/dfzbn/blob/main/1%20(1).png?raw=true",
+      "https://github.com/OmarAyesh2/dfzbn/blob/main/1%20(2).png?raw=true",
+      "https://github.com/OmarAyesh2/dfzbn/blob/main/1%20(3).png?raw=true",
     ]
   },
   {
     id: 2,
     title: "Option Two",
     gallery: [
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/7796982f-3b63-4c57-8553-e2c5f0a0aaf9_rw_1920.png?h=45e44be2bd66e908bbc454c2fa568437",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/e5ddec40-cff0-4b07-b28e-b34e7d63c723_rw_1920.png?h=8de08bf4c89d78e22fa9128f8587083a",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/bbb744d1-4087-4d5e-95c7-53354ec2f0d1_rw_1920.png?h=64f532bb0ed5b13d8cd6fae98e598fdf",
+      "https://github.com/OmarAyesh2/dfzbn/blob/main/2%20(2).png?raw=true",
+      "https://github.com/OmarAyesh2/dfzbn/blob/main/2%20(1).png?raw=true",
     ]
   },
   {
     id: 3,
     title: "Option Three",
     gallery: [
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/f529bef1-58e7-46df-a439-2e5ece55c71c_rw_1920.png?h=f67b6590d9e2f20cdab564df14a95dd3",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/71264065-4ce1-4cb2-8b1f-dd889c4c5f33_rw_1920.png?h=7c2e539d648a1343176665147a7ddb05",
-      "https://cdn.myportfolio.com/254f7732-c8c1-432d-a743-3015106fc23e/a8e6a5d8-dc01-4b66-94b9-50d95b7a8292_rw_600.png?h=bcdeca6e4c45a4d3495b7bd4d695483a",
+      "https://github.com/OmarAyesh2/dfzbn/blob/main/3%20(1).png?raw=true",
+      "https://github.com/OmarAyesh2/dfzbn/blob/main/3%20(2).png?raw=true",
     ]
   }
 ];
