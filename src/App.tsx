@@ -40,6 +40,9 @@ const translations: Record<'en' | 'ar', Translations> = {
       },
       {
         title: "Option Three",
+      },
+      {
+        title: "Option Four",
       }
     ]
   },
@@ -60,6 +63,9 @@ const translations: Record<'en' | 'ar', Translations> = {
       },
       {
         title: "التصميم الثالث",
+      },
+      {
+        title: "التصميم الرابع",
       }
     ]
   }
