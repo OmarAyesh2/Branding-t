@@ -70,25 +70,35 @@ const logoOptions: LogoOption[] = [
     id: 1,
     title: "Option One",
     gallery: [
-      "https://github.com/OmarAyesh2/dfzbn/blob/main/1%20(1).png?raw=true",
-      "https://github.com/OmarAyesh2/dfzbn/blob/main/1%20(2).png?raw=true",
-      "https://github.com/OmarAyesh2/dfzbn/blob/main/1%20(3).png?raw=true",
+      "https://github.com/OmarAyesh2/mockups/blob/main/1%20(2).png?raw=true",
+      "https://github.com/OmarAyesh2/mockups/blob/main/1%20(3).png?raw=true",
+      "https://github.com/OmarAyesh2/mockups/blob/main/1%20(1).png?raw=true",
     ]
   },
   {
     id: 2,
     title: "Option Two",
     gallery: [
-      "https://github.com/OmarAyesh2/dfzbn/blob/main/2%20(2).png?raw=true",
-      "https://github.com/OmarAyesh2/dfzbn/blob/main/2%20(1).png?raw=true",
+      "https://github.com/OmarAyesh2/mockups/blob/main/4%20(1).png?raw=true",
+      "https://github.com/OmarAyesh2/mockups/blob/main/4%20(3).png?raw=true",
+      "https://github.com/OmarAyesh2/mockups/blob/main/4%20(2).png?raw=true",
     ]
   },
   {
     id: 3,
     title: "Option Three",
     gallery: [
-      "https://github.com/OmarAyesh2/dfzbn/blob/main/3%20(1).png?raw=true",
-      "https://github.com/OmarAyesh2/dfzbn/blob/main/3%20(2).png?raw=true",
+      "https://github.com/OmarAyesh2/mockups/blob/main/2%20(2).png?raw=true",
+      "https://github.com/OmarAyesh2/mockups/blob/main/2%20(1).png?raw=true",
+    ]
+  },
+  {
+    id: 4,
+    title: "Option Four",
+    gallery: [
+      "https://github.com/OmarAyesh2/mockups/blob/main/3%20(1).png?raw=true",
+      "https://github.com/OmarAyesh2/mockups/blob/main/3%20(2).png?raw=true",
+      
     ]
   }
 ];
